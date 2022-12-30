@@ -5,6 +5,12 @@ This is just a basic follow of the instructions found on the [Dioxus site](https
 
 I created this repo so I could try out the trunk publish on GitHub.
 
+## TODO:
+- add a post-build script to
+  - copy dist contents into docs
+  - fix the resource paths (though this might be fixable in the trunk build step TBD)
+  - auto commit and push
+
 ## Instructions
 
 To build our app and publish it to Github:
